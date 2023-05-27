@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding first line of code   changes done from local
+=======
+Adding first line of code     changes being done from github
+>>>>>>> 28c599d0c94643356bcb0727d5adf4e321251a7b
